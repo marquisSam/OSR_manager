@@ -1,0 +1,6 @@
+@OrsManager_HostAddress = http://localhost:5024
+
+GET {{OrsManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
